@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+PyMuPDF>=1.24,<2
+sentence-transformers>=3,<6
+chromadb>=0.5,<2
+numpy>=1.26,<3
+google-genai>=1.0,<3
